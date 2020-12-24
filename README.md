@@ -1,6 +1,7 @@
 # tiv_simple
 A Simple Terminal Image Viewer uses the **AWESOME** [STB single file header library](https://github.com/nothings/stb)
-The concept is sooo **AWESOME**
+The concept is sooo **AWESOME**.
+
 **HATS-OFF** to the authors.
 Respect from the depth of my heart to them.
 All I've done is made a brick from the fantastic
