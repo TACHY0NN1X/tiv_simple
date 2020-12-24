@@ -15,3 +15,11 @@ Don't like it, cool!
 ```
 gcc -o <whatever-you-wanna-call-it> <source-file>
 ```
+It has simple logic :
+[+] Load Image
+[+] Resize Image to fit terminal window
+[+] Get rgb value of pixel
+[+] Print Pixel using bash ansi color code
+```bash
+\e[48;2;r;g;bm \e[0m
+```
