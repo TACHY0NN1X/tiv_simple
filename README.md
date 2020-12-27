@@ -11,14 +11,13 @@ while reacting,
 You like it, use it,
 Don't like it, cool!
 
-**Setup :**
-# No dependencies\
-# Just make a directory named "stb"\
-# Inside it download and place :\
-(#) https://github.com/nothings/stb/blob/master/stb_image.h\
-(#) https://github.com/nothings/stb/blob/master/stb_image_resize.h\
- 
- and done. you just compile this and run .
+# **Setup :**
+[+] No dependencies\
+[+] Just make a directory named "stb" \
+[+] Inside it download and place : \
+(#) https://github.com/nothings/stb/blob/master/stb_image.h \
+(#) https://github.com/nothings/stb/blob/master/stb_image_resize.h \
+and done. you just compile this and run .
 
 **To Compile**
 ```
