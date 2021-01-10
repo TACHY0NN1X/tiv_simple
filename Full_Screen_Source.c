@@ -7,7 +7,7 @@
  * Now FULL-SCREEN 
  ********************************/
  
- #include <stdio.h>
+#include <stdio.h>
 #include <math.h>
 #include <stdint.h>
 #include <sys/ioctl.h>
