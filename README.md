@@ -19,14 +19,22 @@ Don't like it, cool!
 (#) https://github.com/nothings/stb/blob/master/stb_image_resize.h \
 and done. you just compile this and run .
 
+For C++ Sources\
 **To Compile**
 ```
-gcc -o <whatever-you-wanna-call-it> <source-file>
+g++ -o <whatever-you-wanna-call-it> <source-file>
 ```
 Or if you have *Make*
 ```
 make <source-filename>
 ```
+For C source\
+**To Compile
+```
+gcc -o <your-call> <source-file> -lm
+```
+The C source is much simpler, and half the
+executable size
 
 It has simple logic :\
 [+] Load Image\
