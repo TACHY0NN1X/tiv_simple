@@ -29,7 +29,7 @@ Or if you have *Make*
 make <source-filename>
 ```
 For C source\
-**To Compile
+**To Compile**
 ```
 gcc -o <your-call> <source-file> -lm
 ```
