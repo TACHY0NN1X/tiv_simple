@@ -12,9 +12,9 @@
 #include <vector>
 
 #define STB_IMAGE_IMPLEMENTATION
-#include "./stb/stb_image.h"
+#include "stb/stb_image.h"
 #define STB_IMAGE_RESIZE_IMPLEMENTATION
-#include "./stb/stb_image_resize.h"
+#include "stb/stb_image_resize.h"
 
 bool loadimg(std::vector<unsigned char>& image, const std::string& filename, int& x, int& y, int& channels){
 
